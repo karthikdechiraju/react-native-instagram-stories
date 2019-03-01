@@ -1,0 +1,22 @@
+export default data = [
+    {
+        id:1,
+        source:require('../assets/blackpanther.jpg'),
+        user:'Ronaldo'
+    },
+    {
+        id:3,
+        source:require('../assets/store.png'),
+        user:'Pogba'
+    },
+    {
+        id:4,
+        source:require('../assets/pubg.png'),
+        user:'Neymar'
+    },
+    {
+        id:5,
+        source:require('../assets/uber.png'),
+        user:'Modric'
+    }
+]
